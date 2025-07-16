@@ -20,7 +20,7 @@ license="All Rights Reserved"
 # The modid of the mod
 modId="regaliafood" #mandatory
 # The version number of the mod
-version="1.20-0.0.1" #mandatory
+version="1.20-1.0.0" #mandatory
 # A display name for the mod
 displayName="Regalia Food" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://docs.minecraftforge.net/en/latest/misc/updatechecker/
@@ -42,8 +42,7 @@ authors="dowinterfor6" #optional
 #displayTest="MATCH_VERSION" # if nothing is specified, MATCH_VERSION is the default when clientSideOnly=false, otherwise IGNORE_ALL_VERSION when clientSideOnly=true (#optional)
 
 # The description text for the mod (multi line!) (#mandatory)
-description='''Oh hai there.
-Newline characters can be used and will be replaced properly.'''
+description='''A simple mod to add food system effects to support the Regalia food system'''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.regaliafood]] #optional
     # the modid of the dependency
